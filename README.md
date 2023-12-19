@@ -4,7 +4,7 @@
 
 Autor: Fernando Antón Ortega
 
-Fecha: 17/12/2023
+Fecha: 18/12/2023
 
 ## Planteamiento
 
